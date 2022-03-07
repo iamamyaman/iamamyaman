@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman
-- 👀 I’m interested in Web Development.
+- 👀 I’m a Web Developer.
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on any REACT PROJECT.
 - 📫 How to reach me ...Email - iemamyaman007@gmail.com | Twitter - https://twitter.com/thewebdevboy
