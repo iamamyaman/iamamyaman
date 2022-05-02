@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thewebdevboy" target="blank"><img src="https://img.shields.io/twitter/follow/thewebdevboy?logo=twitter&style=for-the-badge" alt="thewebdevboy" /></a> </p>
 
-- 🔭 I’m currently working on [cryptOX](https://github.com/iamamyaman/cryptOX)
+- 🔭 I’m currently working on [food-delivery-app](https://github.com/iamamyaman/food-delivery-app)
 
 - 📫 How to reach me **iemamyaman007@gmail.com**
 
