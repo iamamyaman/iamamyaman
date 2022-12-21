@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamamyaman&label=Profile%20views&color=0e75b6&style=flat" alt="iamamyaman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thewebdevboy" target="blank"><img src="https://img.shields.io/twitter/follow/thewebdevboy?logo=twitter&style=for-the-badge" alt="thewebdevboy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amantweetx" target="blank"><img src="https://img.shields.io/twitter/follow/thewebdevboy?logo=twitter&style=for-the-badge" alt="thewebdevboy" /></a> </p>
 
 
 - 📫 How to reach me **iemamyaman007@gmail.com**
